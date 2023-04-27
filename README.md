@@ -26,6 +26,8 @@ Attendance in University is generally paper based which may sometimes cause erro
 
 - [@Vidit Jain](https://www.github.com/viditjain17)
 
+- [@Yashum Bajaj](https://www.github.com/yashumbajaj253)
+
 
 ## Feedback
 
