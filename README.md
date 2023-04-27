@@ -20,7 +20,7 @@ Our team has successfully developed an advanced Attendance System utilizing Radi
 
 Attendance in University is generally paper based which may sometimes cause errors. Taking attendance manually consumes more time. So, In this project we have designed RFID Based Attendance System using Arduino and RFID MFRC522 Module. In this system, each student is issued an RFID card as their id card and their attendance is marked when they touch their card to RFID reader.
 
-<img src = "https://user-images.githubusercontent.com/130309685/234964475-7d81765a-4e4c-47c9-8841-0cd8dd447df2.png" width = 300 height = 300> <img src = "https://user-images.githubusercontent.com/130309685/234965281-3a5c69f2-87cd-418e-b0d9-03498c65fc43.png" width = 300 height = 300> <img src = "https://user-images.githubusercontent.com/130309685/234965832-5474db27-afe1-4cef-89d5-278347c34786.jpg" width = 300 height = 300>
+<img src = "https://user-images.githubusercontent.com/130309685/234964475-7d81765a-4e4c-47c9-8841-0cd8dd447df2.png" width = 280 height = 280> <img src = "https://user-images.githubusercontent.com/130309685/234965281-3a5c69f2-87cd-418e-b0d9-03498c65fc43.png" width = 280 height = 280> <img src = "https://user-images.githubusercontent.com/130309685/234965832-5474db27-afe1-4cef-89d5-278347c34786.jpg" width = 280 height = 280>
 
 
 
